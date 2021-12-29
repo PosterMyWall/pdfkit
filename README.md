@@ -1,8 +1,8 @@
 # PDFKit
+A JavaScript PDF generation library for Node and the browser.
+
 ## PMW Customisations
 - Replacing spaces in font postscript name
-
-A JavaScript PDF generation library for Node and the browser.
 
 ## Description
 
