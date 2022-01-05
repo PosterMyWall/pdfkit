@@ -1,5 +1,5 @@
 {
-  "name": "@postermywall/pmw-pdfkit",
+  "name": "@postermywall/pdfkit",
   "description": "A PDF generation library for Node.js. Customised for PMW",
   "keywords": [
     "pdf",
